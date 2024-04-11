@@ -8,7 +8,7 @@ int main()
     cout<<"Enter The No of Limit : ";
     cin>>n;
  
-    cout<<"Enter "<<n<<" Value :"<<endl;
+    cout<<"Enter Value :"<<endl;
     for(i=0;i<n;i++)
     {
         cin>>x[i];
